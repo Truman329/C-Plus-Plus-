@@ -2,7 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//this code plays the game "Craps" a 1000 times and keeps all the statistics data on the game using array. 
+//such as the average game lenght, does the chance of you winning increases as the game goes on, and the percent of you winning from a 1000 games
 int rollDice();
 
 int main()
