@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+//this code print the individual number for a whole number from 1 to 32767
+//example number = 324
+//output = 3 2 4
 int intQuotient, number, divisor, intRemainder;
 
 int main()
