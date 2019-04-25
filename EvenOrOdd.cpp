@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-
+//this code can check multiple number you input to see if it is even or odd 
 {
 	int number,time,x;
 	cout << "How many number for you wanna check?" << endl;
