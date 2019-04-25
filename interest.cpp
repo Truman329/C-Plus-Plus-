@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-
+//this code finds the amount of money you will make with your compound and saving account 
 using namespace std;
 
 int main()
