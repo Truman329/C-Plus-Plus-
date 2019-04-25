@@ -1,7 +1,12 @@
 #include <iostream>
 using namespace std;
 int main()
-
+//this code will post stars depending on the size you want
+//example side = 3
+//output
+//***
+//***
+//***
 {
 	int  x,side,j;
 	cout << "What is the side" << endl;
